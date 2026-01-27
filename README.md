@@ -1,6 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0054a6&height=180&section=header&text=Vinicius%20Cavalcante&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=60&descAlign=50"/>
-  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0054a6&height=180&section=header&text=Vinicius%20Cavalcante&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=60&descAlign=50&fontColor=ffffff&descColor=ffffff">
+
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0054a6&height=180&section=header&text=Vinicius%20Cavalcante&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=60&descAlign=50">
+
+  <img alt="Vinicius Cavalcante Header" src="https://capsule-render.vercel.app/api?type=waving&color=0054a6&height=180&section=header&text=Vinicius%20Cavalcante&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=60&descAlign=50">
+</picture>
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0054A6&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Especialista+em+PHP+%2F+Laravel;Estudante+de+Engenharia+de+Software;Focado+em+React+e+Ecossistema+JS" alt="Typing SVG" />
   </a>
