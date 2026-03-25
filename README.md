@@ -1,10 +1,10 @@
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0054a6&height=180&section=header&text=Vinicius%20Cavalcante&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=60&descAlign=50&fontColor=ffffff&descColor=ffffff">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0054a6&height=180&section=header&text=Vinicius%20Cavalcanti&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=60&descAlign=50&fontColor=ffffff&descColor=ffffff">
 
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0054a6&height=180&section=header&text=Vinicius%20Cavalcante&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=60&descAlign=50">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0054a6&height=180&section=header&text=Vinicius%20Cavalcanti&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=60&descAlign=50">
 
-  <img alt="Vinicius Cavalcante Header" src="https://capsule-render.vercel.app/api?type=waving&color=0054a6&height=180&section=header&text=Vinicius%20Cavalcante&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=60&descAlign=50">
+  <img alt="Vinicius Cavalcanti Header" src="https://capsule-render.vercel.app/api?type=waving&color=0054a6&height=180&section=header&text=Vinicius%20Cavalcanti&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=60&descAlign=50">
 </picture>
 
   <a href="https://git.io/typing-svg">
@@ -53,9 +53,9 @@ Desenvolvedor apaixonado por criar soluções robustas e escaláveis. Combinando
     <tr>
       <td align="center" style="border: none;">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ViniciusCavalcanteSantos&show_icons=true&theme=tokyonight&count_private=true&hide_border=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ViniciusCavalcanteSantos&show_icons=true&theme=default&count_private=true&hide_border=true">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusCavalcanteSantos&show_icons=true&theme=default&count_private=true&hide_border=true" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ViniciusCavalcantiSantos&show_icons=true&theme=tokyonight&count_private=true&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ViniciusCavalcantiSantos&show_icons=true&theme=default&count_private=true&hide_border=true">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusCavalcantiSantos&show_icons=true&theme=default&count_private=true&hide_border=true" />
         </picture>
       </td>
       <td align="center" style="border: none;">
@@ -71,9 +71,9 @@ Desenvolvedor apaixonado por criar soluções robustas e escaláveis. Combinando
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusCavalcanteSantos/ViniciusCavalcanteSantos/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniciusCavalcanteSantos/ViniciusCavalcanteSantos/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/ViniciusCavalcanteSantos/ViniciusCavalcanteSantos/output/github-contribution-grid-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusCavalcantiSantos/ViniciusCavalcantiSantos/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniciusCavalcantiSantos/ViniciusCavalcantiSantos/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/ViniciusCavalcantiSantos/ViniciusCavalcantiSantos/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
 
