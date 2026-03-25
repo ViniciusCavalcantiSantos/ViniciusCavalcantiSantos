@@ -60,9 +60,9 @@ Desenvolvedor apaixonado por criar soluções robustas e escaláveis. Combinando
       </td>
       <td align="center" style="border: none;">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCavalcanteSantos&layout=compact&langs_count=6&theme=tokyonight&hide_border=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCavalcanteSantos&layout=compact&langs_count=6&theme=default&hide_border=true">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCavalcanteSantos&layout=compact&langs_count=6&theme=default&hide_border=true" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCavalcantiSantos&layout=compact&langs_count=6&theme=tokyonight&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCavalcantiSantos&layout=compact&langs_count=6&theme=default&hide_border=true">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCavalcantiSantos&layout=compact&langs_count=6&theme=default&hide_border=true" />
         </picture>
       </td>
     </tr>
